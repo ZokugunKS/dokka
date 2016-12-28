@@ -1,0 +1,34 @@
+{
+	"name": "dokka",
+	"description": "Generate static documentation Javascript or Kaoscript package",
+	"version": "0.0.1",
+	"author": {
+		"name": "Baptiste Augrain",
+		"email": "daiyam@zokugun.org"
+	},
+	"homepage": "https://github.com/zokugunks/dokka",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zokugunks/dokka"
+	},
+	"bugs": {
+		"url": "https://github.com/zokugunks/dokka/issues"
+	},
+	"license": "MIT",
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/mit-license.php"
+		}
+	],
+	"files": [
+		"src"
+	],
+	"dependencies": {},
+	"devDependencies": {},
+	"scripts": {},
+	"keywords": [
+		"kaoscript",
+		"documentation"
+	]
+}
